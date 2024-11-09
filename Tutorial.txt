@@ -1,0 +1,9 @@
+Line 3 defines a variable "n" which is the size of our agent group.
+Modify it to change the size.
+Line 14, right under line 13 with "#HERE CHANGE THE NAME OF THE FILE", creates, if such a file doesn't exist yet, a new text file.
+There, the results of your random experiment will be stored.
+
+csvonverter.py contains "txt_to_csv()" function
+put the file name of your txt file you want to change into csv, and the name the csv file should have in the parenthesis.
+EXAMPLE: txt_to_csv('pushpull100.txt', 'pushpull100.csv')
+in this case, pushpull100.txt file will be used to create pushpull100.csv file
