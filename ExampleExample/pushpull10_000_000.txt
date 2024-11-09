@@ -1,0 +1,13 @@
+Round:1 Informed:8
+Round:2 Informed:48
+Round:3 Informed:231
+Round:4 Informed:1245
+Round:5 Informed:6115
+Round:6 Informed:31166
+Round:7 Informed:157542
+Round:8 Informed:770835
+Round:9 Informed:3203139
+Round:10 Informed:7938992
+Round:11 Informed:9913415
+Round:12 Informed:9999881
+Round:13 Informed:10000000
